@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+scikit-learn
+Pillow
+python-multipart
+# 以下は、TensorFlowのインストールがRenderで非常に難しいため、一旦コメントアウトしています。
+# あなたの実際の機械学習モデルを組み込む際に、必要なライブラリを追加してください。
+# numpy
+# tensorflow
+# tensorflow-cpu

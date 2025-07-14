@@ -1,0 +1,27 @@
+﻿recipe_id,recipe_name,main_ingredients,required_ingredients,instructions,servings,dietary_restrictions
+1,鶏肉と野菜の炒め物,chicken onion carrot,chicken onion carrot cabbage spinach sake soy_sauce,1. 鶏肉と野菜を切る。|2. フライパンに油を熱し、鶏肉を炒める。|3. 野菜を加えてさらに炒め、醤油と酒で味付けをする。,2,
+2,豚肉と大根の煮物,pork daikon,pork daikon carrot sake soy_sauce mirin,1. 豚肉と大根を切る。|2. 鍋に材料と調味料を入れ、大根が柔らかくなるまで煮込む。,4,
+3,鯖の味噌煮,saba miso sake,saba sake mirin miso ginger,1. 鯖に切り込みを入れ、霜降りする。|2. 鍋に調味料と生姜を入れ煮立て、鯖を加えて煮る。,2,
+4,トマトと卵のふわふわ炒め,tomato egg,tomato egg onion soy_sauce,1. トマトと玉ねぎを切る。|2. 卵を溶いて炒め、トマトと玉ねぎを加えてさらに炒める。,2,
+5,豚肉と茄子の味噌炒め,pork eggplant,pork eggplant onion miso sugar,1. 豚肉と茄子を切る。|2. フライパンでひき肉と茄子を炒める。|3. 味噌と砂糖で味付けをする。,3,
+6,麻婆豆腐,tofu pork,tofu pork chili_bean_paste soy_sauce,1. 豆腐と豚ひき肉を準備する。|2. 豚ひき肉を炒め、豆板醤と調味料を加えて煮込む。|3. 豆腐を加えてさらに煮込む。,2,
+7,牛肉とキャベツの味噌炒め,beef cabbage,beef cabbage onion miso sake,1. 牛肉とキャベツ、玉ねぎを切る。|2. フライパンで牛肉を炒め、野菜を加えて味噌で味付けする。,3,
+8,ほうれん草のおひたし,spinach,spinach soy_sauce dashi,1. ほうれん草を茹でて水気を絞り、食べやすい長さに切る。|2. 醤油とだしで和える。,2,vegetarian
+9,きのことベーコンのソテー,shiitake shimeji bacon,shiitake shimeji bacon onion garlic olive_oil,1. しいたけ、しめじ、ベーコン、玉ねぎ、にんにくを切る。|2. フライパンで炒め、塩こしょうで味を調える。,2,
+10,豚肉の生姜焼き,pork onion,pork onion ginger soy_sauce sake mirin,1. 豚肉と玉ねぎを切る。|2. 豚肉を調味料と生姜に漬け込み、フライパンで焼く。,2,
+11,豚肉とオクラの炒め物,pork okra,pork okra onion soy_sauce,1. 豚肉とオクラ、玉ねぎを切る。|2. フライパンで豚肉とオクラを炒め、醤油で味付けをする。,2,
+12,かぼちゃの煮物,pumpkin,pumpkin soy_sauce mirin dashi,1. かぼちゃを一口大に切り、鍋に調味料と共に入れて煮る。,3,vegetarian
+13,アスパラとベーコンのソテー,asparagus bacon,asparagus bacon salt pepper olive_oil,1. アスパラとベーコンを切る。|2. フライパンで炒め、塩こしょうで味付けをする。,2,
+14,もやしと豚肉の炒め物,moyashi pork,moyashi pork soy_sauce garlic ginger,1. もやしと豚肉を炒める。|2. 醤油、にんにく、生姜で味付けをする。,2,
+15,きゅうりの和え物,cucumber,cucumber vinegar sugar soy_sauce,1. きゅうりを薄切りにして塩揉みし、水気を絞る。|2. 酢、砂糖、醤油で和える。,1,vegetarian
+16,ジャガイモと玉ねぎの味噌汁,potato onion,potato onion miso dashi water,1. ジャガイモと玉ねぎを切る。|2. 鍋にだしと具材を入れ煮込み、味噌を溶き入れる。,2,vegetarian
+17,ふわふわ卵スープ,egg chicken,egg chicken onion soy_sauce sesame_oil,1. 玉ねぎと鶏肉を細かく切る。|2. 鍋で玉ねぎと鶏肉を煮込み、溶き卵を流し入れる。|3. 醤油とごま油で味を調える。,2,
+18,ソーセージとキャベツの炒め物,sausage cabbage,sausage cabbage onion salt pepper,1. ソーセージとキャベツ、玉ねぎを切る。|2. フライパンで炒め、塩こしょうで味付けをする。,2,
+19,えのきと豚肉の炒め物,enoki pork,enoki pork onion soy_sauce,1. えのきと豚肉、玉ねぎを切る。|2. フライパンで炒め、醤油で味付けをする。,2,
+20,キャベツとソーセージのスープ,cabbage sausage,cabbage sausage onion potato water salt pepper,1. キャベツ、ソーセージ、玉ねぎ、ジャガイモを切る。|2. 鍋に水と具材を入れ、柔らかくなるまで煮込む。,3,
+21,チキンカレー,chicken potato curry_powder,chicken potato onion carrot curry_powder water,1. 鶏肉、ジャガイモ、玉ねぎ、人参を切る。|2. 鍋で鶏肉と野菜を炒め、カレー粉と水を加えて煮込む。,4,
+22,トマトとアスパラのサラダ,tomato asparagus,tomato asparagus olive_oil vinegar salt pepper,1. トマトとアスパラガスを切る。|2. オリーブオイル、酢、塩こしょうで和える。,2,vegetarian
+23,かぼちゃのポタージュ,pumpkin onion,pumpkin onion milk butter salt pepper,1. かぼちゃと玉ねぎを切る。|2. 鍋で柔らかくなるまで煮込み、ミキサーにかける。|3. 牛乳、バター、塩こしょうで味を調える。,3,vegetarian
+24,きのこの炊き込みご飯,shiitake shimeji enoki,shiitake shimeji enoki rice soy_sauce mirin dashi,1. 米を研ぎ、しいたけ、しめじ、えのきを切る。|2. 炊飯器に米、水、きのこ、調味料を入れ炊き上げる。,4,vegetarian
+25,ビーフカレー,beef potato curry_powder,beef potato onion carrot curry_powder water,1. 牛肉、ジャガイモ、玉ねぎ、人参を切る。|2. 鍋で牛肉と野菜を炒め、カレー粉と水を加えて煮込む。,4,
+26,豆腐ステーキ,tofu onion,tofu onion soy_sauce ginger garlic,1. 豆腐を水切りし、玉ねぎ、生姜、にんにくを切る。|2. フライパンで豆腐と玉ねぎを焼き、醤油と生姜、にんにくで味付けする。,2,vegetarian

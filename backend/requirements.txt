@@ -4,8 +4,5 @@ pandas
 scikit-learn
 Pillow
 python-multipart
-ultralytics
-opencv-python
-# numpy # ultralyticsの依存関係でインストールされるはず
-# tensorflow # Renderでのデプロイが困難なため、ここでは追加しません
-# tensorflow-cpu
+ultralytics    # これを追加
+opencv-python  # これを追加

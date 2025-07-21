@@ -97,7 +97,7 @@ except Exception as e:
 # --- 画像認識モデルのロード ---
 # あなたのYOLOモデルファイル（例: 'your_yolo_model.pt'）を backend/ フォルダに配置してください。
 # もし 'yolov8n.pt' のような標準モデルを使う場合は、初回実行時にultralyticsが自動ダウンロードします。
-yolo_model_path = os.path.join(os.path.dirname(__file__), 'best2.pt') # あなたのモデルファイル名に
+yolo_model_path = os.path.join(os.path.dirname(__file__), 'best3.pt') # あなたのモデルファイル名に
 # もし標準のyolov8nモデルを使いたい場合：
 # yolo_model_path = 'yolov8n.pt'
 
